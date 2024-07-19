@@ -13,6 +13,7 @@ To install flutter SDK go thorugh this link and follow the instructions: https:/
 **1. Clone the Repository**
 First, clone the repository to your local machine:
 git clone https://github.com/your-username/weather-app.git
+use below commant to enter the folder
 cd weather-app
 
 **2. Install Dependencies**
