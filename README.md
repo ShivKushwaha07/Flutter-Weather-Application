@@ -5,7 +5,7 @@ Weather Application is a cross-platform weather app built with Flutter. It provi
 
 **Prerequisites**
 
-Before you begin, ensure you have the following installed:
+Before you begin, ensure you have the following installed: Flutter SDK
 
 To install flutter SDK go thorugh this link and follow the instructions: https://docs.flutter.dev/get-started/install
 
