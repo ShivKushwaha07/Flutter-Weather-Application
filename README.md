@@ -56,6 +56,7 @@ Enter 3 for Edge
 Below in scrreent of responsive design on windows and mobile and working vedio:
 
 ![Screenshot 2024-07-19 130629](https://github.com/user-attachments/assets/d277cf40-0276-48e4-a56c-b8b0d5023d82)
+
 ![Screenshot 2024-07-19 130604](https://github.com/user-attachments/assets/ab295a7c-d62b-4df6-aa5b-39263b90031d)
 
 
